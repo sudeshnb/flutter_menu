@@ -59,7 +59,7 @@ alt="Flutter Tutorial - How To Download & Open ANY File | PDF, Image, Video, Mus
 [<img align="center" alt="JohannesMilke | Website" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Fwebsite.png?alt=media" />](https://johannesmilke.com)&ensp;Website: [@JohannesMilke](https://johannesmilke.com "Website Johannes Milke")
 
 [twitter]: https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fsudeshnb&screen_name=sudesh78
-[youtube]: https://www.youtube.com/channel/UCXooUY2oL_eqGhTaZn-ExSg
+[youtube]: https://www.youtube.com/channel/UCXooUY2oL_eqGhTaZn-ExSg?sub_confirmation=1
 [courses]: https://johannesmilke.teachable.com/p/home
 [newsletter]: https://johannesmilke.com/#/newsletter
 [sponsor]: https://github.com/sponsors/JohannesMilke
