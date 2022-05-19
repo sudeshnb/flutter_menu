@@ -12,7 +12,7 @@
 
     
 # Flutter Tutorial - How To make a custom menu
-[![Youtube](https://www.youtube.com/channel/UCXooUY2oL_eqGhTaZn-ExSg?label=FlutterCrown &message=Subscribe&logo=YouTube&color=FF0000&style=for-the-badge)][youtube]
+[![Youtube](https://img.shields.io/static/v1?label=FlutterCrown&message=Subscribe&logo=YouTube&color=FF0000&style=for-the-badge)][youtube]
 [![Twitter Follow](https://img.shields.io/twitter/follow/sudesh78?color=1DA1F2&label=Followers&logo=twitter&style=for-the-badge)][twitter]
 <!-- [![Newsletter](https://img.shields.io/static/v1?label=Follow&message=My%20Flutter%20Newsletter&color=5FB709&style=for-the-badge)][newsletter] -->
 
@@ -58,8 +58,8 @@ alt="Flutter Tutorial - How To Download & Open ANY File | PDF, Image, Video, Mus
 
 [<img align="center" alt="JohannesMilke | Website" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Fwebsite.png?alt=media" />](https://johannesmilke.com)&ensp;Website: [@JohannesMilke](https://johannesmilke.com "Website Johannes Milke")
 
-[twitter]: https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FJohannesMilke&screen_name=JohannesMilke
-[youtube]: https://www.youtube.com/JohannesMilke?sub_confirmation=1
+[twitter]: https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fsudeshnb&screen_name=sudesh78
+[youtube]: https://www.youtube.com/channel/UCXooUY2oL_eqGhTaZn-ExSg
 [courses]: https://johannesmilke.teachable.com/p/home
 [newsletter]: https://johannesmilke.com/#/newsletter
 [sponsor]: https://github.com/sponsors/JohannesMilke
