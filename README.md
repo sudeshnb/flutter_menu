@@ -46,7 +46,7 @@ alt="Flutter Tutorial - How To Download & Open ANY File | PDF, Image, Video, Mus
 
 [<img align="center" alt="sudeshBandara | Twitter" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Ftwitter.png?alt=media" />](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fsudesh78&screen_name=sudesh78)&ensp;Twitter: [@sudesh78](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fsudesh78&screen_name=sudesh78 "Twitter Sudesh Bandara")
 
-[<img align="center" alt="sudeshBandara | Instagram" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Finstagram.png?alt=media" />](https://instagram.com/sudeshnb)&ensp;Instagram: [@Sudeshnb](https://instagram.com/sudeshnb "Instagram Sudesh Bandara")
+[<img align="center" alt="sudeshBandara | Instagram" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Finstagram.png?alt=media" />](https://instagram.com/sudesh_nish)&ensp;Instagram: [@sudesh_nish](https://instagram.com/sudesh_nish "Instagram Sudesh Bandara")
 
 [<img align="center" alt="sudeshBandara | Facebook" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Ffacebook.png?alt=media" />](https://www.facebook.com/real.sudeshnb)&ensp;Facebook: [@Sudeshnb](https://www.facebook.com/real.sudeshnb "Facebook Sudesh Bandara")
 
